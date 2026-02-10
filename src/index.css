@@ -13,7 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-html, body, #root {
+html,
+body,
+#root {
   margin: 0;
   padding: 0;
   height: 100%;
@@ -25,7 +27,6 @@ body {
   color: inherit;
 }
 
-}
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
